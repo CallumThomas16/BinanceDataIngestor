@@ -5,6 +5,11 @@
         <TargetFramework>net11.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <RootNamespace>Crypto_Trading</RootNamespace>
     </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="BinanceDataDTO\" />
+    </ItemGroup>
 
 </Project>

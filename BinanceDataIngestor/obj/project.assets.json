@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\callu\\RiderProjects\\Crypto_Trading\\Crypto_Trading\\Crypto_Trading.csproj",
-      "projectName": "Crypto_Trading",
-      "projectPath": "C:\\Users\\callu\\RiderProjects\\Crypto_Trading\\Crypto_Trading\\Crypto_Trading.csproj",
+      "projectUniqueName": "C:\\Users\\callu\\RiderProjects\\Crypto_Trading\\BinanceDataIngestor\\BinanceDataIngestor.csproj",
+      "projectName": "BinanceDataIngestor",
+      "projectPath": "C:\\Users\\callu\\RiderProjects\\Crypto_Trading\\BinanceDataIngestor\\BinanceDataIngestor.csproj",
       "packagesPath": "C:\\Users\\callu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\callu\\RiderProjects\\Crypto_Trading\\Crypto_Trading\\obj\\",
+      "outputPath": "C:\\Users\\callu\\RiderProjects\\Crypto_Trading\\BinanceDataIngestor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\callu\\AppData\\Roaming\\NuGet\\NuGet.Config"
