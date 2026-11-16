@@ -8,8 +8,4 @@
         <RootNamespace>Crypto_Trading</RootNamespace>
     </PropertyGroup>
 
-    <ItemGroup>
-      <Folder Include="BinanceDataDTO\" />
-    </ItemGroup>
-
 </Project>
